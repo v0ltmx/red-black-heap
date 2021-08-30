@@ -1,0 +1,30 @@
+{
+  "name": "ArvoreRubroNegra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+		"test": "jest",
+		"docs": "./node_modules/.bin/jsdoc -c jsdoc.json"
+	},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v0ltmx/red-black-heap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v0ltmx/red-black-heap/issues"
+  },
+  "homepage": "https://github.com/v0ltmx/red-black-heap#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/plugin-proposal-class-properties": "^7.14.5",
+    "@babel/preset-env": "^7.15.0",
+    "@types/jest": "^27.0.1",
+    "babel-jest": "^27.1.0",
+    "jest": "^27.1.0",
+    "jsdoc": "^3.6.7"
+  }
+}
