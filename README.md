@@ -1,5 +1,7 @@
-##Executar testes, use:
+##
+#### Para executar testes, use:
 npm test
-
-##Criar a documentação, use:
+##
+#### Para criar a documentação, use:
 npm run docs
+##
